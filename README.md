@@ -1,5 +1,10 @@
 # OtoSINT
 
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu)
+![Language](https://img.shields.io/badge/Language-Bash-4EAA25?logo=gnu-bash)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 A lightweight Bash-based OSINT automation tool for passive reconnaissance.
 
 OtoSINT simplifies the reconnaissance phase of a security assessment by combining multiple open-source intelligence (OSINT) tools into a single automated workflow. The script performs passive subdomain enumeration, aggregates results from multiple sources, normalizes the output, and generates a clean list of unique subdomains.
